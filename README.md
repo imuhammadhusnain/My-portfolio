@@ -1,13 +1,11 @@
-# Muhammad Husnain - Cybersecurity SOC Analyst
-
-Welcome to my cybersecurity portfolio! My name is Muhammad Husnain and I'm a highly motivated cybersecurity enthusiast who is eager to learn and contribute to the field. I have a strong foundation in cybersecurity fundamentals and have gained hands-on experience through various projects. I am committed to continuous learning and growth in this ever-evolving field. Let's connect, collaborate, and make a positive impact in the world of cybersecurity together.
+# Muhammad Husnain - SOC Analyst | Logs Analyst | cybersecurity enthusiast
 
  <!-- If you prefer to use your LinkedIn profile picture as a clickable link, you can use the following HTML snippet instead. Just make sure to replace 'your-linkedin-profile-picture-url' with the actual URL of your LinkedIn profile picture and 'your-linkedin-profile-link' with the URL to your LinkedIn profile. -->
  
 <!-- ## About Me-->
 
 <!-- A brief introduction about yourself and your background in cybersecurity -->
-
+Welcome to my cybersecurity portfolio! My name is Muhammad Husnain, and I am a highly motivated cybersecurity enthusiast eager to learn and contribute to the field. I have a solid foundation in cybersecurity fundamentals and have gained hands-on experience through various projects. I am committed to continuous learning and growth in this ever-evolving field. Let's connect, collaborate, and make a positive impact in the world of cybersecurity together.
 
 
 ## Key Projects
