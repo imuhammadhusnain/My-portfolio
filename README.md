@@ -48,8 +48,8 @@ Active Directory | Windows Server | Ubuntu Server
 
 <!-- Briefly list your educational background relevant to cybersecurity -->
  
-- Master in Cyber Security • Edith Cowan University Western Australia
-- Bacholer in Software Engineering • Riphah International Faislabad, Pakistan
+- Master in Cyber Security | Edith Cowan University Western Australia
+- Bachelor in Software Engineering | Riphah International Faisalabad, Pakistan
 
   
 ## Connect with Me
