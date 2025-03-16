@@ -1,4 +1,4 @@
-# Muhammad Husnain - Cybersecurity Analyst
+# Muhammad Husnain - Cybersecurity SOC Analyst
 
 Welcome to my cybersecurity portfolio! My name is Muhammad Husnain and I'm a highly motivated cybersecurity enthusiast who is eager to learn and contribute to the field. I have a strong foundation in cybersecurity fundamentals and have gained hands-on experience through various projects. I am committed to continuous learning and growth in this ever-evolving field. Let's connect, collaborate, and make a positive impact in the world of cybersecurity together.
 
