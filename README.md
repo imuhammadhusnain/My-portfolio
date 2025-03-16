@@ -43,8 +43,6 @@ Welcome to my cybersecurity portfolio! My name is Muhammad Husnain and I'm a hig
 
 <!-- Briefly list your educational background relevant to cybersecurity -->
  
-
-
 - Master in Cyber Security • Edith Cowan University Western Australia
 - Bacholer in Software Engineering • Riphah International Faislabad, Pakistan
 
