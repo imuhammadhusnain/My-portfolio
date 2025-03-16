@@ -14,10 +14,11 @@ Welcome to my cybersecurity portfolio! My name is Muhammad Husnain, and I am a h
 
 | Project Name      | Project Links      |
 |-------------------|------------------------------------------|
+| Active Directory Setup in Home Lab | [Link](https://github.com/imuhammadhusnain/ActiveDirectory) |
 | SIEM using Splunk Security Alerts Dashboard | [Project 1](https://github.com/yourusername/repository-name) |
-| Network Packet Sniffing using Wirekshark   | [Project 2](https://github.com/yourusername/repository-name) |
+| Network Packet Sniffing using Wirekshark | [Project 2](https://github.com/yourusername/repository-name) |
  
-
+ 
 ## Skills
 
 <!-- List of your skills relevant to cybersecurity -->
