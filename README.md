@@ -23,7 +23,7 @@ Welcome to my cybersecurity portfolio! My name is Muhammad Husnain, and I am a h
 
 <!-- List of your tools relevant to cybersecurity -->
 
-Active Directory | Windows Server | Ubuntu Server 
+[Active Directory](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg) | Windows Server | Ubuntu Server 
 
 ## Skills
 
