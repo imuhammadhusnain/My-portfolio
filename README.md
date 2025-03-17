@@ -32,7 +32,7 @@ Welcome to my cybersecurity portfolio! My name is Muhammad Husnain, and I am a h
 <img src="https://github.com/imuhammadhusnain/My-portfolio/blob/main/Icon/Ubuntu.svg" alt="ubuntu" width="45" height="45"/>
 <img src="https://github.com/imuhammadhusnain/My-portfolio/blob/main/Icon/Raspberry%20Pi.svg" alt="rasbirrey" width="45" height="45"/>
 <img src="https://github.com/imuhammadhusnain/My-portfolio/blob/main/Icon/Microsoft%20SQL%20Server.svg" alt="SQLserver" width="45" height="45"/>
-<img src=" https://github.com/imuhammadhusnain/My-portfolio/blob/main/Icon/id48nJIE-Y_1742203174809.png" alt="SQLserver" width="45" height="45"/>
+<img src="https://github.com/imuhammadhusnain/My-portfolio/blob/main/Icon/id48nJIE-Y_1742203174809.png" alt="SQLserver" width="45" height="45"/>
 </p>
 
 
