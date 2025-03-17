@@ -28,6 +28,7 @@ Welcome to my cybersecurity portfolio! My name is Muhammad Husnain, and I am a h
 <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="php" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="php" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="vscode" width="45" height="45"/>
 </p>
 
 Active Directory | Windows Server | Ubuntu Server 
