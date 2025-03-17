@@ -19,19 +19,21 @@ Welcome to my cybersecurity portfolio! My name is Muhammad Husnain, and I am a h
 | SIEM using Splunk Security Alerts Dashboard | [Link](https://github.com/imuhammadhusnain/SplunkGuard-Cybersecurity-Vigilance-through-SIEM-Dashboard) |
 
  
-## Tools
+<h3> 🚀 &nbsp;Some Tools I Have Used and Learned</h3>
 
 <!-- List of your tools relevant to cybersecurity -->
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="php" width="45" height="45"/>
-<img src="https://github.com/imuhammadhusnain/My-portfolio/blob/main/Python.svg" alt="php" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="vscode" width="45" height="45"/>
+<p align="left"> 
+<img src="https://github.com/imuhammadhusnain/My-portfolio/blob/main/Icon/Bash.svg" alt="bash" width="45" height="45"/>
+<img src="https://github.com/imuhammadhusnain/My-portfolio/blob/main/Icon/Visual%20Studio%20Code%20(VS%20Code).svg" alt="vscode" width="45" height="45"/>
+<img src="https://github.com/imuhammadhusnain/My-portfolio/blob/main/Icon/azure.svg" alt="Azure" width="45" height="45"/>
+<img src="https://github.com/imuhammadhusnain/My-portfolio/blob/main/Icon/proxmox-svgrepo-com.svg" alt="proxmox" width="45" height="45"/>
+<img src="https://github.com/imuhammadhusnain/My-portfolio/blob/main/Icon/Linux.svg" alt="Linux" width="45" height="45"/>
+<img src="https://github.com/imuhammadhusnain/My-portfolio/blob/main/Icon/windows8-original.svg" alt="windows" width="45" height="45"/>
+<img src="https://github.com/imuhammadhusnain/My-portfolio/blob/main/Icon/Ubuntu.svg" alt="ubuntu" width="45" height="45"/>
+<img src="https://github.com/imuhammadhusnain/My-portfolio/blob/main/Icon/Raspberry%20Pi.svg" alt="rasbirrey" width="45" height="45"/>
+<img src="https://github.com/imuhammadhusnain/My-portfolio/blob/main/Icon/Microsoft%20SQL%20Server.svg" alt="SQLserver" width="45" height="45"/>
 </p>
 
-Active Directory | Windows Server | Ubuntu Server 
 
 ## Skills
 
