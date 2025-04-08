@@ -11,17 +11,24 @@
       margin: 0;
       padding: 20px;
       color: #333;
+      line-height: 1.6;
     }
+
     h1, h2, h3 {
       color: #1a1a1a;
     }
+
     a {
       color: #007BFF;
       text-decoration: none;
+      transition: color 0.3s ease;
     }
+
     a:hover {
+      color: #0056b3;
       text-decoration: underline;
     }
+
     .container {
       max-width: 900px;
       margin: auto;
@@ -30,29 +37,68 @@
       border-radius: 10px;
       box-shadow: 0 4px 10px rgba(0,0,0,0.1);
     }
+
+    /* Profile Picture */
+    .profile-pic {
+      width: 120px;
+      height: 120px;
+      border-radius: 50%;
+      margin-bottom: 20px;
+      border: 3px solid #007BFF;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
     table {
       width: 100%;
       border-collapse: collapse;
       margin-top: 15px;
     }
+
     table, th, td {
       border: 1px solid #ccc;
     }
+
     th, td {
       padding: 10px;
       text-align: left;
     }
+
     .tools img {
       margin: 10px 10px 0 0;
       vertical-align: middle;
+      transition: transform 0.3s ease;
     }
+
+    .tools img:hover {
+      transform: scale(1.1);
+    }
+
     .badges img {
       margin: 5px 10px 5px 0;
     }
+
+    ul {
+      list-style-type: none;
+      padding-left: 0;
+    }
+
+    ul li {
+      padding: 5px 0;
+    }
+
+    /* Smooth Scroll */
+    html {
+      scroll-behavior: smooth;
+    }
+
   </style>
 </head>
 <body>
   <div class="container">
+    <!-- Profile Section -->
+    <img src="https://your-profile-image-link.jpg" alt="Muhammad Husnain" class="profile-pic">
     <h1>Muhammad Husnain</h1>
     <h2>SOC Analyst | Logs Analyst | Cybersecurity Enthusiast</h2>
 
@@ -68,11 +114,11 @@
         <td>Active Directory Setup in Home Lab</td>
         <td><a href="https://github.com/imuhammadhusnain/ActiveDirectory-Setup/blob/main/README.md" target="_blank">View Project</a></td>
       </tr>
-          <tr>
+      <tr>
         <td>SIEM using Splunk Security Alerts Dashboard</td>
         <td><a href="https://github.com/imuhammadhusnain/SplunkGuard-Cybersecurity-Vigilance-through-SIEM-Dashboard" target="_blank">View Project</a></td>
       </tr>
-        <tr>
+      <tr>
         <td>Building Expertise in Azure Sentinel (uploading soon)</td>
         <td><a href="https://github.com/yourusername/repository-name" target="_blank">View Project</a></td>
       </tr>
@@ -82,19 +128,19 @@
       </tr>
     </table>
 
-   <h3> 🚀 &nbsp;Some Tools I Have Used and Learned</h3>
-<p align="left"> 
-  <img src="https://raw.githubusercontent.com/imuhammadhusnain/My-portfolio/main/Icon/Bash.svg" alt="bash" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/imuhammadhusnain/My-portfolio/main/Icon/Visual%20Studio%20Code%20(VS%20Code).svg" alt="vscode" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/imuhammadhusnain/My-portfolio/main/Icon/azure.svg" alt="Azure" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/imuhammadhusnain/My-portfolio/main/Icon/proxmox-svgrepo-com.svg" alt="proxmox" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/imuhammadhusnain/My-portfolio/main/Icon/Linux.svg" alt="Linux" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/imuhammadhusnain/My-portfolio/main/Icon/windows8-original.svg" alt="windows" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/imuhammadhusnain/My-portfolio/main/Icon/Ubuntu.svg" alt="ubuntu" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/imuhammadhusnain/My-portfolio/main/Icon/Raspberry%20Pi.svg" alt="raspberry" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/imuhammadhusnain/My-portfolio/main/Icon/Microsoft%20SQL%20Server.svg" alt="SQLserver" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/imuhammadhusnain/My-portfolio/main/Icon/id48nJIE-Y_1742203174809.png" alt="another-icon" width="45" height="45"/>
-</p>
+    <h3> 🚀 &nbsp;Some Tools I Have Used and Learned</h3>
+    <p class="tools"> 
+      <img src="https://raw.githubusercontent.com/imuhammadhusnain/My-portfolio/main/Icon/Bash.svg" alt="bash" width="45" height="45"/>
+      <img src="https://raw.githubusercontent.com/imuhammadhusnain/My-portfolio/main/Icon/Visual%20Studio%20Code%20(VS%20Code).svg" alt="vscode" width="45" height="45"/>
+      <img src="https://raw.githubusercontent.com/imuhammadhusnain/My-portfolio/main/Icon/azure.svg" alt="Azure" width="45" height="45"/>
+      <img src="https://raw.githubusercontent.com/imuhammadhusnain/My-portfolio/main/Icon/proxmox-svgrepo-com.svg" alt="proxmox" width="45" height="45"/>
+      <img src="https://raw.githubusercontent.com/imuhammadhusnain/My-portfolio/main/Icon/Linux.svg" alt="Linux" width="45" height="45"/>
+      <img src="https://raw.githubusercontent.com/imuhammadhusnain/My-portfolio/main/Icon/windows8-original.svg" alt="windows" width="45" height="45"/>
+      <img src="https://raw.githubusercontent.com/imuhammadhusnain/My-portfolio/main/Icon/Ubuntu.svg" alt="ubuntu" width="45" height="45"/>
+      <img src="https://raw.githubusercontent.com/imuhammadhusnain/My-portfolio/main/Icon/Raspberry%20Pi.svg" alt="raspberry" width="45" height="45"/>
+      <img src="https://raw.githubusercontent.com/imuhammadhusnain/My-portfolio/main/Icon/Microsoft%20SQL%20Server.svg" alt="SQLserver" width="45" height="45"/>
+      <img src="https://raw.githubusercontent.com/imuhammadhusnain/My-portfolio/main/Icon/id48nJIE-Y_1742203174809.png" alt="another-icon" width="45" height="45"/>
+    </p>
 
     <h2>🛠 Skills</h2>
     <ul>
